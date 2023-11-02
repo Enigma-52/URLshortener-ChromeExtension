@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "URL Shortener",
+    "version": "1.0",
+    "description": "Shorten URLs using Bitly.",
+    "permissions": ["activeTab", "clipboardWrite"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+}
+  
